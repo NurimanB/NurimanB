@@ -9,7 +9,7 @@
 - **ML & Data**: Regression, Classification, EDA, Feature Engineering
 
 ## 🚀 Projects
-- 🔗 [EPL position guesser](Endterm) — Predicts EPL players’ positions (Forward, Midfielder, Defender, Goalkeeper) using 2020 season stats. Demonstrates feature analysis and machine learning classification in football data.
+- 🔗 [EPL position guesser]([Endterm](https://github.com/NurimanB/Introduction-to-Machine-Learning/tree/main/Endterm)) — Predicts EPL players’ positions (Forward, Midfielder, Defender, Goalkeeper) using 2020 season stats. Demonstrates feature analysis and machine learning classification in football data.
 - 🔗 [Project 2](link) — Short description
 
 ## 📫 Connect
