@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋 I'm Nuriman
 
-<!--
-**NurimanB/NurimanB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Future Data Scientist | Python & ML Enthusiast  
+📍 Studying at Kazakh British Technical University
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- **Languages**: Python, SQL,
+- **Tools**: pandas, NumPy, scikit‑learn, matplotlib, seaborn
+- **ML & Data**: Regression, Classification, EDA, Feature Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🔗 [EPL position guesser](Endterm) — Predicts EPL players’ positions (Forward, Midfielder, Defender, Goalkeeper) using 2020 season stats. Demonstrates feature analysis and machine learning classification in football data.
+- 🔗 [Project 2](link) — Short description
+
+## 📫 Connect
+- 📧 Email: nrmnbltbv@gmail.com
+- 🔗 [LinkedIn](your‑profile)
+- 🔗 [Portfolio](your‑site)
+
+Thanks for visiting! 😊
