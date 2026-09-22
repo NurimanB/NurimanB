@@ -25,5 +25,7 @@
 ## 📫 Connect
 
 - 📧 Email: nrmnbltbv@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/nuriman-baltabaev/)
+- 🔗 [Portfolio](your‑site)
 
 Thanks for visiting! 😊
