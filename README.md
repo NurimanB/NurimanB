@@ -19,8 +19,8 @@
 
 ## 📊 GitHub Stats
 
-![Nuriman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurimanB&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurimanB&layout=compact&hide_border=true)
+[Nuriman's GitHub stats](https://github-readme-stats.vercel.app/api?username=NurimanB&show_icons=true&theme=default&hide_border=true)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NurimanB&layout=compact&hide_border=true)
 
 ## 📫 Connect
 
