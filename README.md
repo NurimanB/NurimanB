@@ -13,9 +13,9 @@
 
 ## 🚀 Projects
 
-- 🔗 **[EPL Position Guesser](https://github.com/NurimanB/Introduction-to-Machine-Learning/tree/main/Endterm)** — Predicts EPL players' positions (Forward, Midfielder, Defender, Goalkeeper) from 2020 season stats. Covers feature analysis and multi-class classification on real football data.
-- 🔗 **[Optimization & Control](https://github.com/NurimanB/Optimitisation-and-Control)** — Implements gradient descent and Newton's method to minimize a non-convex 2D function, with gradient/Hessian derivations and visualized convergence paths.
-- 🔗 **[CFD: Numerical PDE Methods](https://github.com/NurimanB/CFD_autumn25)** — Solves the 1D heat (diffusion) equation with explicit finite-difference and Fourier-series methods, comparing numerical and analytic solutions.
+- 🔗 **[EPL Position Guesser](https://github.com/NurimanB/EPL-Position-Guesser)** — Predicts EPL players' positions (Defender, Midfielder, Forward) from 2019/20 season stats using per-match feature engineering. Random Forest and Logistic Regression compared, 89% test accuracy.
+- 🔗 **[Intelligent Security CV](https://github.com/NurimanB/intelligent-security-cv)** — End-to-end pipeline for real-time object detection and metadata aggregation: YOLOv8 inference, OpenCV, PostgreSQL logging, and EDA over detection data.
+- 🔗 **[Image Classification with Pretrained ResNets](https://github.com/NurimanB/Image-Classification-ResNet)** — CLI toolkit comparing ResNet-18/50/101 on size, CPU inference speed, and accuracy; classifies arbitrary images and benchmarks batch vs. individual inference.
 
 ## 📫 Connect
 
