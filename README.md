@@ -7,9 +7,9 @@
 
 ## 🧠 Skills
 
-**Languages:** Python, SQL
-**Tools:** pandas, NumPy, scikit-learn, matplotlib, seaborn
-**ML & Data:** Regression, Classification, EDA, Feature Engineering
+- **Languages:** Python, SQL
+- **Tools:** pandas, NumPy, scikit-learn, matplotlib, seaborn
+- **ML & Data:** Regression, Classification, EDA, Feature Engineering
 
 ## 🚀 Projects
 
